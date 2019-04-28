@@ -1,0 +1,15 @@
+#div3>img{
+	width: 100%;
+	border-radius: 10%;
+}
+#div3{
+	width:100%;
+}
+#div3-2{
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;	
+}
+#div3-2>img{
+	width: 33.3%;	
+}
